@@ -6,7 +6,7 @@
  
  
  
- <br>📩 **Contate-me**
+ <br>📩   **Contate-me**
 
 <!-- Contatos -->
 <a href="mailto: tandundem@hotmail.com">
@@ -18,7 +18,7 @@
   
   <br>
 
-<br>📲 **Redes Sociais**
+<br>📲   **Redes Sociais**
 
 <!-- Contatos -->
 <a href="https://twitter.com/geraldofcastro/">
