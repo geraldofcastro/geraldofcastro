@@ -1,14 +1,14 @@
 ## Prazer! Eu sou o Geraldo Castro 
- <div>
-  <a href="https://github.com/geraldofcastro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geraldofcastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<div>
- 
+
  <p>
 Minhas experiências mais marcantes foram com as linguagens PHP, C# e NODE. Procuro sempre está aperfeiçoando minhas skills e desenvolvendo meus talentos.
 Sempre busco alcançar minhas metas com bastante respeito, humildade e tenho muito prazer em ensinar. 
-</p>
- 
+ </p><br><br>
+
+ <div>
+  <a href="https://github.com/geraldofcastro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geraldofcastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+<div>
  
  
  <br>📩   **Contate-me**
