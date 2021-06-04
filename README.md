@@ -5,10 +5,6 @@ Minhas experiências mais marcantes foram com as linguagens PHP, C# e NODE. Proc
 Sempre busco alcançar minhas metas com bastante respeito, humildade e tenho muito prazer em ensinar. 
  </p><br><br>
 
- <div>
-  <a href="https://github.com/geraldofcastro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geraldofcastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
-<div>
  
  
  <br>📩   **Contate-me**
